@@ -2,6 +2,8 @@
 
 AI tool to detect and remove silence and pauses from videos (and audios)
 
+[![Lesson 0 - Let's Build AI to edit videos](https://i.ytimg.com/an_webp/HMXXVxoS7mI/mqdefault_6s.webp?du=3000&sqp=CIax-Z8G&rs=AOn4CLBC6dPfWDHoHDUYT-f9me-2s13jfg)](https://www.youtube.com/watch?v=HMXXVxoS7mI)
+
 # Instructions
 
 1. Copy the code into your computer.
