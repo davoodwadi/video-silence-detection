@@ -7,13 +7,13 @@ AI tool to detect and remove silence and pauses from videos (and audios)
 # Instructions
 
 1. Copy the code into your computer.
-    1. Clone this repository into your computer:
+    1. Clone this repository:
             
             git clone https://github.com/davoodwadi/video-silence-detection.git
             
     2. Or download it as a zip file and extract it.
     
-2. Install the python required libraries with `pip`:
+2. Install the required python libraries with `pip`:
 
         pip install -r requirements.txt
         
